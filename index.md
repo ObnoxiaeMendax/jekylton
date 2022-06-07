@@ -5,8 +5,8 @@ date: 2019-10-03
 ---
 
 {% include jumbotron.html
-  title="Jekylton"
-  text="Use this site skeleton and its guides to build your digital history website "
+  title="History of the Cobac"
+  text=" "Over the course of COVID-19, five friends flew the perilous skies of Verdansk to discover the Life and Legend of COBAC: These are their files
   caption=""
   image="/assets/images/tent-rocks.jpg"
 %}
